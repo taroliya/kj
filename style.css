@@ -1,0 +1,551 @@
+body
+{
+    margin: 0px;
+    padding: 0px;   
+}
+.nn
+{
+    border: 3px solid transparent; 
+    height: 590px;
+    width: 1360px; 
+    background: linear-gradient(rgb(233, 228, 182),rgb(245, 217, 217)); 
+}
+.a
+{
+    position: relative;
+    left: 600px;
+    bottom: 130px;
+
+}
+.b
+
+{
+    position: relative;
+    left: 600px;
+    bottom: 130px;
+    border-radius: 50px;
+
+}
+.se
+{
+    position: relative;
+    left: 830px;
+    bottom: 1100px;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    
+}
+.c
+{
+    position: relative;
+    left: 600px;
+    bottom: 100px;
+
+    
+}
+.d
+{
+    position: relative;
+    left:300px;
+    bottom: 100px;
+}
+.i
+{
+    position: relative;
+    left: 700px;
+    bottom: 100px;
+}
+.e
+{
+    position: relative;
+    left: 600px;
+    bottom: 90px;
+}
+.f
+{
+    position: relative;
+    left: 460px; 
+    bottom: 60px;
+}
+.g
+{
+    position: relative;
+    left: 350px;
+    bottom: 20px;
+}
+.h
+{
+
+    position: relative;
+    left: 600px;
+  bottom: 20px;
+}
+.jpg
+{
+    position: relative;
+    left: 200px;
+    top: 30px;
+    height: 200px;
+    width: 150px;
+    border:6px solid rgb(205, 224, 240);
+    border-radius: 50%;
+
+
+}
+.al
+{
+    position: relative;
+    left: 100px;
+    top: 70px;
+    height: 90px;
+    width: 90px;
+    border:5px solid rgb(31, 28, 28);
+    border-radius: 70%;  
+}
+.ss
+{
+    position: relative;
+    right: 10px;
+  top: 150px;   
+}
+.jp
+{
+    position: relative;
+    left: 250px;
+    bottom: 40px;
+    height: 90px;
+    width: 90px;
+    border:5px solid rgb(31, 28, 28);
+    border-radius: 70%;     
+}
+.bi
+{
+    position: relative;
+    left: 130px;
+  top: 45px;
+}
+.rr
+{
+    position: relative;
+    left: 400px;
+    bottom: 140px;
+    height: 90px;
+    width: 90px;
+    border:5px solid rgb(31, 28, 28);
+    border-radius: 70%;    
+}
+.pp
+{
+    position: relative;
+    left: 280px;
+    bottom: 60px;
+}.frd
+{
+    position: relative;
+    left: 540px;
+    bottom: 250px;
+    height: 90px;
+    width: 90px;
+    border:5px solid rgb(31, 28, 28);
+    border-radius: 70%;     
+}
+.fr
+{
+    position: relative;
+    bottom: 170px;
+    left: 310px;
+}
+.mo
+{
+    position: relative;
+    left: 680px;
+    bottom: 365px;
+    height: 90px;
+    width: 90px;
+    border:5px solid rgb(31, 28, 28);
+    border-radius: 70%; 
+}
+.em
+{
+    position: relative;
+    bottom: 280px;
+    left: 580px;
+}
+.py
+{
+    position: relative;
+    left: 815px;
+    bottom: 475px;
+    height: 90px;
+    width: 90px;
+    border:5px solid rgb(31, 28, 28);
+    border-radius: 70%; 
+}
+.yt
+{
+position: relative;
+bottom: 390px;
+left: 710px;
+}
+.wi
+{
+    position: relative;
+    left:950px;
+    bottom: 582px;
+    height: 90px;
+    width: 90px;
+    border:5px solid rgb(31, 28, 28);
+    border-radius: 70%; 
+}
+.ii
+{
+    position: relative;
+    bottom:500px ;
+    left: 850px;
+}
+.st
+{
+    position: relative;
+    left: 1100px;
+    bottom: 690px;
+    height: 90px;
+    width: 90px;
+    border:5px solid black;
+    border-radius: 70%; 
+}
+.dy
+{
+    position: relative;
+    bottom: 610px;
+    left: 1005px;
+}
+
+.qq
+{
+ margin: 0px;
+ padding: 0px;
+border: 10px solid transparent;
+height: 840px;
+}
+.xx
+{
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid transparent;
+    height: 50px;
+}
+.po
+{
+position: relative;
+left: 350px;
+top: 15px;
+}
+.re
+{
+    position: relative;
+    left: 480px;
+    top: 12px;
+}
+.vi
+{
+    position: relative;
+    left: 580px;
+    top:12px ;
+}
+.sa
+{
+    position: relative;
+    left: 690px;
+    top:12px ;   
+}
+.ta
+{
+    position: relative;
+    left: 780px;
+    top:12px ;
+}
+.qq .tg
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+right: -1px;
+}
+#sr
+{
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    height: 240px;
+    width: 240px;
+}
+.kr
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+right: -1px;  
+}
+#hn
+{
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    height: 240px;
+    width: 240px;  
+}
+.to
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+right: -1px;
+}
+#je
+{
+
+    position: relative;
+    right: 20px;
+    bottom: 20px;
+    height: 240px;
+    width: 240px;
+}
+.pi
+{
+padding: 20px;
+border: 10px solid rgb(235, 231, 228);
+height: 200px;
+width: 200px;
+position: relative;
+left: 250px;
+bottom: 780px;
+}
+#co
+{
+position: relative;
+height: 240px;
+width: 240px;
+right: 20px;
+bottom: 20px;
+}
+.stud
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 250px;
+    bottom: 780px;
+}
+#dyy
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px;
+
+}
+.mac
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 250px;
+    bottom: 780px;
+}
+#ne
+{ 
+    
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px; 
+}
+.eee
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 510px;
+    bottom: 1560px;
+}
+#ej
+{
+
+    
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px; 
+     
+}
+.fre
+{
+
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 510px;
+    bottom: 1560px;
+
+}
+#ebp
+{
+    
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px; 
+}
+.bir
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 510px;
+    bottom: 1560px;  
+}
+
+#irg
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px; 
+}
+.do
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 770px;
+    bottom: 2340px;
+}
+#ad
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px;  
+}
+.imo
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 770px;
+    bottom: 2340px; 
+}
+#jij
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px; 
+}
+.wed
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 770px;
+    bottom: 2340px; 
+}
+#ng
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px; 
+}
+.sn
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 1029px;
+    bottom: 3120px; 
+}
+#ap
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px; 
+}
+.tak
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 1029px;
+    bottom: 3120px; 
+}
+#lu
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px;
+}
+.ra
+{
+    padding: 20px;
+    border: 10px solid rgb(235, 231, 228);
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 1029px;
+    bottom: 3120px; 
+}
+#nt
+{
+    position: relative;
+    height: 240px;
+    width: 240px;
+    right: 20px;
+    bottom: 20px;
+}
+.foo
+{
+    position: relative;
+    left: 400px;
+    max-width: 20px;
+    max-height: 20px;
+}
